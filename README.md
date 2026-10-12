@@ -1,5 +1,5 @@
 
-![Riyadh Train Integrated System](a_clean_infographic_website_banner_scene_with_a_m.png)
+![Riyadh Metro Integrated System](Riyadh%20Metro%20Integrated%20System.png)
 
 # Riyadh Train Integrated System
 
